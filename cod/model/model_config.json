@@ -1,0 +1,14 @@
+{
+  "loss": "warp",
+  "learning_schedule": "adagrad",
+  "no_components": 30,
+  "k": 5,
+  "n": 10,
+  "learning_rate": 0.05,
+  "rho": 0.95,
+  "epsilon": 1e-06,
+  "max_sampled": 10,
+  "item_alpha": 0.0,
+  "user_alpha": 0.0,
+  "random_state": 42
+}

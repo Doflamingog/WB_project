@@ -1,0 +1,5 @@
+data/*.csv filter=lfs diff=lfs merge=lfs -text
+data/wb_school_task_1.csv filter=lfs diff=lfs merge=lfs -text
+data/recommendations.csv filter=lfs diff=lfs merge=lfs -text
+data/user.csv filter=lfs diff=lfs merge=lfs -text
+data/df_with_fich.csv filter=lfs diff=lfs merge=lfs -text
